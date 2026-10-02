@@ -18,6 +18,7 @@ import lombok.RequiredArgsConstructor;
 @Controller
 @RequiredArgsConstructor
 public class ValidationController {
+	// コメントテスト
 	/** インジェクション */
 	private final CalcValidator calcValidator;
 	
